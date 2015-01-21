@@ -7,6 +7,7 @@
  *
  * @author Michael
  */
+ //put this comment in
 public abstract class AbstractGraph implements Graph {
     private int numVertices;
     private boolean directed;
