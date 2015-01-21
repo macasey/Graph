@@ -23,6 +23,9 @@ public class MatrixTester  {
         //Remove edge and check
         myGraph.remove(edge01);
         System.out.println("Edge " + myGraph.isEdge(0, 1));
+        
+        
+        System.out.println("Did the push work ");
     }
     
     
