@@ -11,6 +11,8 @@ public abstract class AbstractGraph implements Graph {
     private int numVertices;
     private boolean directed;
        
+    //I made a change - Peter
+    
     public AbstractGraph(int nV, boolean direct){
         numVertices = nV;
         directed = direct;      
